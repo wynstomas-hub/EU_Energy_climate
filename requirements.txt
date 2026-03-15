@@ -1,17 +1,4 @@
-# Core dependencies for EU Energy & Climate tools
-
-# Data manipulation
-pandas>=2.0.0
-numpy>=1.24.0
-
-# Visualization
-plotly>=5.15.0
-
-# Dashboard framework
 streamlit>=1.28.0
-
-# Eurostat data API
-eurostat>=0.2.2
-
-# Optional but recommended
-python-dotenv>=1.0.0
+pandas>=2.0.0
+plotly>=5.15.0
+eurostat>=0.2.0
