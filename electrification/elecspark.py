@@ -46,7 +46,7 @@ ef_gas = 0.202 # tCO2 per MWh of natural gas
 sector_profiles = {
     "Food & Beverage (Low Temp: <150°C)": {"cop": 3.5, "scale": "Medium"},
     "Paper & Pulp (Low Temp: <150°C)": {"cop": 3.5, "scale": "Large"},
-    "Chemicals (Low Temp: <150°C)": {"cop": 3.0, "scale": "Large"},
+    "Chemicals (Low Temp: <150°C)": {"cop": 3.5, "scale": "Large"},
     "Chemicals (Medium Temp: 150-500°C)": {"cop": 2.0, "scale": "Large"},
     "Chemicals (High Temp: >500°C)": {"cop": 1.0, "scale": "Large"},
     "Basic Metals (High Temp: >1000°C)": {"cop": 1.0, "scale": "Large"},

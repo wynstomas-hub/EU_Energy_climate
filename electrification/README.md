@@ -44,7 +44,7 @@ Where:
 |--------|-------------|-----|------------|
 | Food & Beverage | <150°C | 3.5 | Industrial heat pumps |
 | Paper & Pulp | <150°C | 3.5 | Industrial heat pumps |
-| Chemicals (Low) | <150°C | 3.0 | Industrial heat pumps |
+| Chemicals (Low) | <150°C | 3.5 | Industrial heat pumps |
 | Chemicals (Medium) | 150-500°C | 2.0 | High-temp heat pumps |
 | Chemicals (High) | >500°C | 1.0 | Electric boilers |
 | Basic Metals | >1000°C | 1.0 | Arc furnaces |
